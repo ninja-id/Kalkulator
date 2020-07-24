@@ -1,4 +1,4 @@
-
+alert('Tugas individu PROGATE X CFDS UGM NAMA : JIHAN AFIF KELAS : E');
 // definisi Variabel
 let prevNumber='';
 let calculationOperator='';
