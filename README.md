@@ -1,5 +1,5 @@
 # Kalkulator
 
-Tugas individu progate 
+Tugas individu PROGATE X CFDS UGM
 NAMA    : JIHAN AFIF
 KELAS   : E
